@@ -1,6 +1,5 @@
 ## Create Virtual Environment:
-python -m venv myenv
-myenv/scripts/activate
-# pdf-rag-chatbot
-# PDF_RAG_CHATBOT
-# RAG-PDF-CHATBOT
+cd E:\pdf\rag-chatbot
+venv\Scripts\activate
+python -m streamlit run app.py
+

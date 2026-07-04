@@ -1,6 +1,7 @@
 import os
 from langchain_community.vectorstores import FAISS
 from rag.embeddings import get_embeddings
+
 FAISS_PATH = "data/faiss_index"
 
 def build_vectorstore(documents):

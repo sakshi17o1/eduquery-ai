@@ -1,0 +1,19 @@
+{
+  "sessions": [
+    {
+      "date": "2026-06-28 15:15",
+      "topic": "langchain",
+      "score": 3,
+      "total": 3,
+      "percent": 100.0
+    },
+    {
+      "date": "2026-07-04 18:30",
+      "topic": "typedict",
+      "score": 3,
+      "total": 4,
+      "percent": 75.0
+    }
+  ],
+  "weak_topics": {}
+}

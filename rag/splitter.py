@@ -3,8 +3,8 @@ from langchain_core.documents import Document
 
 def split_documents(docs):
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,
-        chunk_overlap=150
+    chunk_size=2000,
+    chunk_overlap=200
     )
 
     langchain_docs = []
