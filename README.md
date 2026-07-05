@@ -1,4 +1,4 @@
-# EduQuery AI — Study Smarter 🎓
+# EduQuery AI — Study Smarter 🎓git branch
 
 An AI-powered exam preparation platform that helps students study smarter from their own notes.
 
